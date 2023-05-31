@@ -1,2 +1,2 @@
-# Replacing-the-text-with-3-dots-if-it-is-larger-than-the-size-of-the-QLabel
+# Замена текста на 3 точки, если он больше размеров QLabel
 Небольшой микропроект по PyQT5
